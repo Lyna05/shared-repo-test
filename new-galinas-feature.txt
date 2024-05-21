@@ -1,2 +1,2 @@
-Here ist the code for new Galinas Feature.
-Here aret the changes in the new feature.
+Here is the code for new Galinas Feature.
+Here are the changes in the new feature.
